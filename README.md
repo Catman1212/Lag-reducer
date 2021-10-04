@@ -29,7 +29,7 @@ And that's it.
 
 #### Demo
 
-To try it out quickly, run the `tests/stand_alone.exe` application.
+To try it out quickly, run the `Lag-reducer-windows.cmd` application.
 
 To set up a more thorough demo between two computers on your LAN, run the `tests/tests_peer2peer_gui.exe` on two computers on your WiFi LAN.
 
